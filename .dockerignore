@@ -1,0 +1,15 @@
+# Ignore the database file so we don't bake old data into the image
+jobs.db
+
+# Ignore Python cache files
+__pycache__
+*.pyc
+
+# Ignore git history
+.git
+
+# Ignore virtual environments
+venv/
+env/
+.vscode/
+.idea/
