@@ -1,8 +1,8 @@
-# AI-Powered Review Classifier & Jira Sync
+# AI-Powered Requirements Engineering Tool for SRS Generation
 
 A modular, local-first web application that automates the analysis of user feedback. It ingests raw data, classifies it using Local LLMs (Ollama), generates structured requirements (SRS/User Stories), and synchronizes directly to Jira Cloud.
 
-## 🚀 Quick Start (Docker)
+## 🚀 Quick Start 
 
 This is the recommended way to run the application. It ensures all dependencies and databases are configured automatically.
 
@@ -68,4 +68,4 @@ Once the app is running (Step C above), follow these steps to replicate our expe
 
 ## 📂 Legacy / Manual Installation
 
-If you cannot use Docker and prefer to run Python scripts manually on your host machine, please refer to the [Manual Setup Guide](REPLICATION_GUIDE.md).
+If you cannot use Docker and prefer to run Python scripts manually on your host machine, please refer to the [Manual Setup Guide](docs/MANUAL_SETUP.md).
