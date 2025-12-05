@@ -20,7 +20,7 @@ Open your terminal in this project folder and run these three commands:
 This script reads `prompts_config.json` and automatically pulls the required models (Mistral, Llama, etc.) to your local Ollama.
 
 ```bash
-python model_setup.py
+python model_installer.py
 ```
 
 #### Step B: Launch the App
